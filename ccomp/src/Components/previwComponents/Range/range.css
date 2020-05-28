@@ -1,0 +1,8 @@
+.range{
+    margin: 30px auto;
+    width: 40%;
+}
+.range span{
+    display: block;
+    margin-top: 10px;
+}

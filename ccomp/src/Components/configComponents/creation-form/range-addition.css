@@ -1,0 +1,10 @@
+
+.row{
+    margin: 10px 0;
+}
+.row span {
+    padding-right: 10px;
+}
+.row input{
+    width: 60px;
+}

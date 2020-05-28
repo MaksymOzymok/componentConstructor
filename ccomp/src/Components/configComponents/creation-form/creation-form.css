@@ -1,0 +1,32 @@
+.creation-form{
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+.creation-input{
+    height: 25px;
+    width: 55%;
+    font-weight: bold;
+    padding-left: 10px;
+    border: 3px solid black;
+}
+.select{
+    width: 40%;
+    height: 33px;
+}
+.add-btn{
+    color: white;
+    background-color: black;
+    border: none;
+    height: 30px;
+    width: 100%;
+    border-radius: 20px;
+    display: block;
+    margin: 40px auto;
+    cursor: pointer;
+    transition: .3s;
+}
+.add-btn:hover{
+    opacity: 0.8;
+}

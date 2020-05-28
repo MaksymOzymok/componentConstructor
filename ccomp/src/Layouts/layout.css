@@ -1,0 +1,10 @@
+.layout{
+    width: 50%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    min-height: 600px;
+}
+
+.layout-header{
+    margin: 10px 10px;
+}
